@@ -36,7 +36,7 @@ Change means when an application access these parameters this appwill replace or
 2. IMEI 2
 3. Increment both IMEI by Increment value on Random
 
-- Gmail address (spoof your logged-in Gmail for Victim Apps)
+- Gmail address (spoof your logged-in Gmail for Victim Apps) (premium)
 - Android ID
 - Hardware Serial
 - Advertising ID (Not working in newer android versions)
@@ -44,9 +44,9 @@ Change means when an application access these parameters this appwill replace or
 - Bluetooth Mac Address
 - WiFi Mac Address
 - WiFi SSID
-- Mobile Number (premium)
-- SIM Subscriber number (premium)
-- SIM Card Serial (premium)
+- Mobile Number
+- SIM Subscriber number
+- SIM Card Serial
 - MediaDRM (premium) [Coming Soon]
 
 ### Target apps' features
