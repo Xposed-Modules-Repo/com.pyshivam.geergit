@@ -1,6 +1,6 @@
 # Geergit - Protect Your Privacy
 
-[![Github All Releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.pyshivam.geergit/total.svg)]() [![GitHub stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/com.pyshivam.geergit)](https://github.com/Xposed-Modules-Repo/com.pyshivam.geergit/stargazers)
+[![Github All Releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.pyshivam.geergit/total.svg)]()
 
 ROOT REQUIRED
 
