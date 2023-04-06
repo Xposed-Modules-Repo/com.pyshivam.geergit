@@ -67,10 +67,11 @@ Change means when an application access these parameters this appwill replace or
 
 ### Feature request
 
-There are two method to request feature
+There are multiple methods to request feature
 
 1. You can open feature request issue to this repository.
 2. Submit this Google Form: https://forms.gle/X8sX6PcSi9bRbK1YA
+3. [Telegram Group](https://t.me/geergit_xposed)
 
 <br/>
 
