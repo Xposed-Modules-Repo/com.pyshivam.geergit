@@ -90,7 +90,16 @@ Steps to enable app in Xposed Framework (LSPosed Recommended).
 - Restart phone
 - Open the app
 - And you can start using it by changing settings.
-  <br/><br/>
+
+2. Don't use this app for any illegal purpose or cheat any program this module is just for better privacy.
+   <br/><br/>
+
+Credits:
+
+@DE - For inspiring me for this module. <br/>
+@Lsposed Team - For their efforts. <br/>
+@VD171 - for his app VDInfo which will help to check spoof values.
+<br/><br/>
 
 ### End User Licence Agreement (EULA)
 
