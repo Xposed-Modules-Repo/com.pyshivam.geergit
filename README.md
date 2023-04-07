@@ -1,6 +1,8 @@
 # Geergit - Protect Your Privacy
 
-[![Github All Releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.pyshivam.geergit/total.svg)]()
+![Github All Releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.pyshivam.geergit/total.svg)
+
+![](banner.png)
 
 ROOT REQUIRED
 
@@ -72,6 +74,7 @@ There are multiple methods to request feature
 1. You can open feature request issue to this repository.
 2. Submit this Google Form: https://forms.gle/X8sX6PcSi9bRbK1YA
 3. [Telegram Group](https://t.me/geergit_xposed)
+4. [XDA Thread](https://forum.xda-developers.com/t/app-xposed-5-0-13-geergit-a-module-to-protect-your-privacy.4573243/)
 
 <br/>
 
