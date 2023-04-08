@@ -87,6 +87,7 @@ Steps to enable app in Xposed Framework (LSPosed Recommended).
 - Install app
 - Go to xposed module
 - Enable module in xposed framework
+- Select target/victim apps in module's scope incase of LSPosed
 - Restart phone
 - Open the app
 - And you can start using it by changing settings.
