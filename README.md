@@ -49,7 +49,7 @@ Change means when an application access these parameters this appwill replace or
 - Mobile Number
 - SIM Subscriber number
 - SIM Card Serial
-- MediaDRM (premium) [Coming Soon]
+- MediaDRM (premium)
 
 ### Target apps' features
 
