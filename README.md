@@ -21,51 +21,46 @@ This is Xposed Module For Changing (MASKING) the various IDs in the Phone.
 Change means when an application access these parameters this appwill replace original value with user provided value. Original values are always intact in device.
 <br/><br/>
 
-## Features
+## Pricing Table
 
-### Spoofing (Hide your original details and give fake ones!)
+| Features                                             | Freemium | Silver (Lifetime) | Premium (Subscription) | Alpha (Subscription) |
+| ---------------------------------------------------- | -------- | ----------------- | ---------------------- | -------------------- |
+| IMEI1                                                | ✔️       | ✔️                | ✔️                     | ✔️                   |
+| IMEI2                                                | ✔️       | ✔️                | ✔️                     | ✔️                   |
+| Hardware Serial                                      | ✔️       | ✔️                | ✔️                     | ✔️                   |
+| Bluetooth Mac                                        | ✔️       | ✔️                | ✔️                     | ✔️                   |
+| Wifi Mac                                             | ✔️       | ✔️                | ✔️                     | ✔️                   |
+| Wifi SSID                                            | ✔️       | ✔️                | ✔️                     | ✔️                   |
+| Mobile Number                                        | ✔️       | ✔️                | ✔️                     | ✔️                   |
+| Advertising ID                                       | ✔️       | ✔️                | ✔️                     | ✔️                   |
+| Country                                              |          | ✔️                | ✔️                     | ✔️                   |
+| SIM Operator                                         |          | ✔️                | ✔️                     | ✔️                   |
+| SIM MCC/MNC                                          |          | ✔️                | ✔️                     | ✔️                   |
+| SIM Subscriber                                       |          | ✔️                | ✔️                     | ✔️                   |
+| SIM Card Serial                                      |          | ✔️                | ✔️                     | ✔️                   |
+| Google Service Framework (GSF)                       |          | ✔️                | ✔️                     | ✔️                   |
+| Spoof Google Accounts (Gmail)                        |          | ✔️                | ✔️                     | ✔️                   |
+| Android ID                                           |          |                   | ✔️                     | ✔️                   |
+| DRM Media                                            |          |                   | ✔️                     | ✔️                   |
+| On click random all the values                       |          |                   | ✔️                     | ✔️                   |
+| Make device look more legit (hide root, xposed, etc) |          |                   |                        | ✔️                   |
+| Mock location                                        |          |                   |                        | ✔️                   |
+| Backup/Restore app data                              |          |                   |                        | ✔️                   |
+| Create groups of target apps                         |          |                   |                        | ✔️                   |
+| Profile creation per App and Group                   |          |                   |                        | ✔️                   |
+| Add notes to profile                                 |          |                   |                        | ✔️                   |
 
-- Sim Operator (premium)
+**Freemium:** The Freemium membership provides essential features to enhance your privacy control on Android. With Freemium, you can protect your IMEI, hardware serial, Bluetooth MAC, Wi-Fi MAC, mobile number, advertising ID, and Wi-Fi SSID. It's a great starting point for securing your information.
 
-1. Country
-2. Sim Operator
-3. MCC
-4. MNC
+**Silver (Lifetime):** Upgrade to the Silver membership and make a one-time payment to unlock advanced features. The Silver membership provides lifetime access to all the functionalities available in the Freemium plan, along with additional features. With Silver, you gain access to country information, SIM operator details, SIM MCC/MNC, SIM subscriber information, SIM card serial, Google Service Framework (GSF), and the ability to spoof Google accounts (Gmail). Silver expands your privacy control capabilities for a lifetime.
 
-- IMEI
+**Premium (Subscription):** Subscribe to the Premium membership and unlock everything provided in the Freemium and Lifetime plans. Additionally, as a Premium member, you gain access to upcoming features mentioned in the table above. With Premium, you stay up-to-date with the latest developments and enjoy comprehensive privacy control options. Premium membership is available through a subscription.
 
-1. IMEI 1
-2. IMEI 2
-3. Increment both IMEI by Increment value on Random
+**Alpha (Subscription):** The Alpha membership encompasses all the features provided in the Freemium, Lifetime, and Premium plans. On top of that, Alpha offers advanced features that are still under development. These exclusive features are not available in the other plans and enable you to experience cutting-edge privacy control on your Android device. Alpha membership is available through a subscription.
 
-- Gmail address (spoof your logged-in Gmail for Victim Apps) (premium)
-- Android ID
-- Hardware Serial
-- Advertising ID (Not working in newer android versions)
-- Google Services Framework (GSF) ID (premium)
-- Bluetooth Mac Address
-- WiFi Mac Address
-- WiFi SSID
-- Mobile Number
-- SIM Subscriber number
-- SIM Card Serial
-- MediaDRM (premium)
+Please note that the availability of certain features may vary depending on the membership level.
 
-### Target apps' features
-
-- Per App Spoofing
-- Hide Root
-- Hide Xposed
-- Creation of Profiles
-- Add Notes to Profiles
-- One Click Randomize
-- Grouping of Target Apps (Coming Soon)
-
-### Import / Export
-
-- Backup Target App's Data (premium)
-- Import / Export Profiles (Spoofed/Fake values)
-- Import / Export the above data to Local Storage and/or Google Drive (premium)[Coming Soon]
+(_Note: This pricing information is subject to change as Geergit is still under development._)
 
 ### Feature request
 
