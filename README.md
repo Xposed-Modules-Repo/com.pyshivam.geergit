@@ -60,7 +60,7 @@ Change means when an application access these parameters this appwill replace or
 
 Please note that the availability of certain features may vary depending on the membership level.
 
-(_Note: This pricing information is subject to change as Geergit is still under development._)
+(_Note: Pricing plans are based on monthly per-device subscriptions. Prices and features are subject to change as Geergit is still under development._)
 
 ### Feature request
 
