@@ -1,7 +1,5 @@
 # Geergit - Protect Your Privacy
 
-![Github All Releases](https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.pyshivam.geergit/total.svg)
-
 ![](banner.png)
 
 ROOT REQUIRED
